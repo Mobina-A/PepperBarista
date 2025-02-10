@@ -36,4 +36,4 @@ This project demonstrated Pepper’s capabilities as a social robot waiter and h
 ## Team Members
 - Vahid Bagherian " https://github.com/Vahidba72 "
 - Parisa Farvardin
-- Seyed Emad Razavi
+- Seyed Emad Razavi " https://github.com/Emaaaad "
